@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:49:25.168Z",
+  "generated_at": "2026-10-29T17:47:32.347Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -126,6 +126,19 @@
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-21T12:49:14.556Z",
       "last_pushed_at": "2026-10-21T12:49:14.556Z"
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-29T17:47:31.503Z",
+      "last_pushed_at": "2026-10-29T17:47:31.503Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
